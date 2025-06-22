@@ -1,4 +1,4 @@
-# Data-Analysis
+# Data-Driven Insights for Sales Optimization
 I have analyzed the raw data and answered some important questions like" State wise sales, Top five products, Segment wise sales, Average, Count, Max, Min sales and number of orders in each quarter and more....." from the given data.
 # Dataset used
 https://github.com/Karan7Singh/Data-Analysis/blob/main/data%20Analysis.xlsx
